@@ -10,5 +10,8 @@ public class TheWorld {
         System.out.println("Silver Chariots");
         System.out.println("Magician's Red");
         System.out.println("Hermit Purple");
+        
+        Naruhodo naruhodo = new Naruhodo();
+        naruhodo.Casts();
     }
 }
