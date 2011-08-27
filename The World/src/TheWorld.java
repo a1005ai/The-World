@@ -9,5 +9,6 @@ public class TheWorld {
         System.out.println("Welcome to Hanoi!");
         System.out.println("Silver Chariots");
         System.out.println("Magician's Red");
+        System.out.println("Hermit Purple");
     }
 }
