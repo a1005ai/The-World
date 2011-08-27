@@ -1,8 +1,7 @@
 
 public class Naruhodo {
 	public void Casts() {
-		System.out.println("ˆ¤ì‹Ô–ç");
-		System.out.println("“í“c}—¢q");
+		System.out.println("æ„›å·æ¬½ä¹Ÿ");
+		System.out.println("æ¥ ç”°æé‡Œå­");
 	}
-
 }
