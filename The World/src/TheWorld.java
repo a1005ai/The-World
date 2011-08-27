@@ -4,5 +4,7 @@ public class TheWorld {
         System.out.println("The world");
         System.out.println("Star Platinum");
         System.out.println("中鉢です");
+        System.out.println("masunaga-desu");
+        System.out.println("junya-desu");
     }
 }
