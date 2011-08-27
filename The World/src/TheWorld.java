@@ -6,5 +6,6 @@ public class TheWorld {
         System.out.println("中鉢です");
         System.out.println("masunaga-desu");
         System.out.println("junya-desu");
+        System.out.println("Welcome to Hanoi!");
     }
 }
