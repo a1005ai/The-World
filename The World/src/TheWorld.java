@@ -1,3 +1,4 @@
+/* 文字コードはUTF8です */
 
 public class TheWorld {
     public static void main(String[] args) {
