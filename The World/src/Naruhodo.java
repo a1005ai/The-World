@@ -1,3 +1,4 @@
+/* 文字コードはUTF8です */
 
 public class Naruhodo {
 	public void Casts() {
