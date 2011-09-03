@@ -17,5 +17,6 @@ public class TheWorld {
         naruhodo.cast();
         BusinessSatelite wbs = new BusinessSatelite();
         wbs.announcer();
+        System.out.println("Welcome to Jamaica!");
     }
 }
