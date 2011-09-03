@@ -12,6 +12,9 @@ public class TheWorld {
         System.out.println("Magician's Red");
         System.out.println("Hermit Purple");
         Naruhodo naruhodo = new Naruhodo();
-        naruhodo.Casts();
+        naruhodo.cast();
+        
+        BusinessSatelite wbs = new BusinessSatelite();
+        wbs.announcer();
     }
 }
