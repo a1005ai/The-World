@@ -11,6 +11,7 @@ public class TheWorld {
         System.out.println("Silver Chariots");
         System.out.println("Magician's Red");
         System.out.println("Hermit Purple");
+        System.out.println("お前はもう死んでいる。");
         Naruhodo naruhodo = new Naruhodo();
         naruhodo.Casts();
         System.out.println("test");
