@@ -15,5 +15,6 @@ public class TheWorld {
         Naruhodo naruhodo = new Naruhodo();
         naruhodo.Casts();
         System.out.println("test");
+        System.out.println("test2");
     }
 }
