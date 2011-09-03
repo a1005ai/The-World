@@ -12,6 +12,5 @@ public class TheWorld {
         System.out.println("Hermit Purple");
         Naruhodo naruhodo = new Naruhodo();
         naruhodo.Casts();
-        System.out.println("Hole on me");
     }
 }
