@@ -11,10 +11,14 @@ public class TheWorld {
         System.out.println("Silver Chariots");
         System.out.println("Magician's Red");
         System.out.println("Hermit Purple");
+        System.out.println("お前はもう死んでいる。");
+        System.out.println("test");
+
         Naruhodo naruhodo = new Naruhodo();
         naruhodo.cast();
         
         BusinessSatelite wbs = new BusinessSatelite();
         wbs.announcer();
+
     }
 }
